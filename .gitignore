@@ -14,3 +14,9 @@ yarn-error.log
 /.vscode
 docker-compose.override.yml
 /.docker
+/storage/backups
+.idea
+.DS_Store
+.packages
+.quarantine
+.tmb
